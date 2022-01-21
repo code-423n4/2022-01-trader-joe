@@ -1,7 +1,7 @@
 # Trader Joe contest details
 
-- $45,000 main award pot
-- $2,500 gas optimization award pot
+- $45,000 USDT main award pot
+- $2,500 USDT gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2022-01-trader-joe-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
