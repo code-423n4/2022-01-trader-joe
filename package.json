@@ -1,11 +1,15 @@
 {
-  "name": "rocketjoe",
-  "version": "1.0.0",
+  "name": "@traderjoe-xyz/rocket-joe",
+  "version": "0.0.0",
   "description": "A launch platform for bootstrapping protocol-owned liquidity",
   "license": "None",
   "directories": {
     "test": "test"
   },
+  "files": [
+    "contracts",
+    "abi"
+  ],
   "scripts": {
     "test": "hardhat test"
   },
@@ -44,7 +48,7 @@
     "husky": "^4.2.5",
     "prettier": "^2.5.1",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
-    "solidity-coverage": "^0.7.17"
+    "solidity-coverage": "^0.7.18"
   },
   "resolutions": {
     "**/colors": "1.4.0"
