@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: None
+// Copyright (c) 2022 Trader Joe - All rights reserved
 
 pragma solidity ^0.8.0;
 
